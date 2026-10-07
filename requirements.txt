@@ -1,0 +1,15 @@
+ultralytics
+
+opencv-python
+
+pyttsx3
+
+speechrecognition
+
+pyaudio
+
+googletrans==4.0.0-rc1
+
+gtts
+
+numpy
